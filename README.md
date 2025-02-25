@@ -201,7 +201,7 @@ Increased flexibility: By concentrating on logical linkages and broad patterns, 
 Developer Control: Developers can guide AI interactions in particular directions and make sure the AI comprehends the context and intent of the user's request by creating efficient prompts. This allows for greater control over the AI's reaction.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Question 2 : Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: "Draw a picture of a person."
 
