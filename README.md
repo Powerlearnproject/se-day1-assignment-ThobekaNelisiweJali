@@ -214,7 +214,7 @@ Clarity: By clearly stating that it is seeking a "full-body portrait" of a young
 
 Specifics: It gives explicit instructions for making the image by including crucial elements like the woman's appearance (length brown hair, red jacket, blue pants) and the scene (park, sunny day, trees, grass).
 
-Conciseness: The prompt is thorough without being unduly complicated, giving the artist just enough details to grasp the idea without needless clarification. As a result, the task becomes simpler and more effective.
+Conciseness: The prompt is thorough without being unduly complicated, giving the artist just enough details to grasp the idea without needless clarification. As a result, the task becomes simpler and more effective
 
 
 
