@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Question 1: Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 
 The methodical application of engineering principles to software system design, development, testing, deployment, and maintenance is known as software engineering. It entails building dependable, scalable, and effective software solutions that satisfy user and corporate needs utilizing organized techniques, tools, and programming languages.
 
@@ -28,7 +28,7 @@ Interdisciplinary Applications – Beyond the conventional IT sectors, software 
 
 
 
-Question 2: Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 Mastering Complexity – To handle large, complex systems, structured programming and modular architecture were created in the 1960s in response to the Software Crisis. Code organization was further enhanced by object-oriented programming (OOP), which increased software's scalability and maintainability.
 
@@ -38,7 +38,7 @@ Mastering Machine – Early software was low-level programming that was dependen
 
 
 
-Question 3: List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
 
 High-quality software is designed, developed, and maintained using an organized process called the Software Development Life Cycle (SDLC). It has multiple important stages, each of which is essential to a software project's success.
 
@@ -60,7 +60,7 @@ Following coding, the program is put through a thorough testing process to find 
 
 
 
-Question 4: Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 The Waterfall Methodology
 
@@ -83,7 +83,7 @@ The method is followed when the following conditions are prevalent:
 -After every sprint, testing is carried out continually to lower the likelihood of serious problems and enhance the overall quality of the software.
 
 
-Question 5: Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: 
 
@@ -109,8 +109,7 @@ Project Manager:
 -Oversees the delivery of software, making sure the finished product satisfies customer requirements and maintains its high performance after deployment.
 
 
-
-Question 6: Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+ Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Intergrated Development Environment 
 
@@ -149,8 +148,7 @@ Backup and Security: By serving as a backup system, VCS makes sure that code is 
 
 
 
-
-Question 7: What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+ What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Rapid Technological Advancements: Because software professionals need to constantly learn new tools, languages, and frameworks to stay relevant, the rapid rate of technological development can be overwhelming.
 Solution - By enrolling in online courses, going to workshops, and keeping up with industry news, engineers may embrace lifelong learning. Agile approaches ensure that engineers' abilities stay up to date by enabling them to adjust to new trends and technologies as they appear.
@@ -170,7 +168,7 @@ Solution - To guarantee that the program is user-friendly, dependable, and avail
 
 
 
-Question 8 : Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+ Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit Testing : Unit tests concentrate on evaluating distinct program elements, features, or procedures. They make sure that individual functionalities act as intended by verifying that each code unit operates correctly when used alone.
 Importance: By verifying that each unit operates as intended without interference from other system components, unit tests enhance software reliability by assisting in the early detection and correction of faults.
@@ -187,8 +185,7 @@ Importance: By verifying that the software meets end-user requirements and is in
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
-Question 1: Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
 
 The process of creating and improving inputs, or prompts, to direct generative AI models in generating the intended results is known as prompt engineering. It entails creating clear and efficient prompts to guarantee accurate and pertinent AI responses.
 
@@ -201,7 +198,7 @@ Increased flexibility: By concentrating on logical linkages and broad patterns, 
 Developer Control: Developers can guide AI interactions in particular directions and make sure the AI comprehends the context and intent of the user's request by creating efficient prompts. This allows for greater control over the AI's reaction.
 
 
-Question 2 : Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: "Draw a picture of a person."
 
